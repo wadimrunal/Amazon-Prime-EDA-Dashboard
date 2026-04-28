@@ -12,14 +12,14 @@ The goal of this dashboard is to provide a "one-stop" visual summary of the Amaz
 ## 🖥️ Dashboard Features & User Interaction
 * **Dynamic KPIs**: Instant view of Total Titles, Total Genres, and Average Release Year.
 * **Interactive Map**: Hover over countries to see specific content counts.
-* **Genre Heatmap**: A visual ranking of the most popular genres (e.g., Drama, Comedy, Horror).
+* **Genre map**: A visual ranking of the most popular genres (e.g., Drama, Comedy, Horror).
 * **Yearly Trend Line**: An interactive timeline showing the surge in TV shows vs. Movies.
 * **Global Filters**: Filter the entire dashboard by **Show Type**, **Rating**, and **Release Year** for deep-dive analysis.
 
 ## 🛠️ Tools Used
 * **Software**: Tableau Desktop / Tableau Public
-* **Data Source**: Amazon Prime Movies and TV Shows Dataset (Kaggle)
-* **Design**: Custom layout focused on the "Prime Video" dark-mode aesthetic.
+* **Data Source**: Amazon Prime Movies and TV Shows Dataset 
+* **Design**: Custom layout focused on the "Prime Video" 
 
 ## 💡 Key Business Insights
 1. **Movie Dominance**: Movies significantly outnumber TV shows, suggesting a historical focus on cinema over episodic content.
